@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React & vite - this is an sample edit at 15:43 PM 
+          Learn React & vite - this is an sample edit at 15:51 PM 
         </a>
       </header>
     </div>
