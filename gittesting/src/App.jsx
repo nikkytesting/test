@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - this is an sample edit when there is an parallel commit
+          Learn React & vite - this is an sample edit at 15:06 PM 
         </a>
       </header>
     </div>
