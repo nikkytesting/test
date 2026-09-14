@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React & Vite - This is an Edit 
+          Learn React - this is an edit to an edit
         </a>
       </header>
     </div>
